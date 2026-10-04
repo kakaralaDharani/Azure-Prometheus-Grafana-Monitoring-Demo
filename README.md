@@ -518,7 +518,7 @@ Visualization
 
 The project demonstrates how Prometheus and Grafana can be used to monitor both infrastructure-level metrics and application availability in an Azure environment.
 
-👨‍💻 Author
+👨‍💻 Author:
 Kakarala Pavithra Dharani
 DevOps Engineer | Azure | AWS | Kubernetes | Terraform | CI/CD
 GitHub: kakaralaDharani
